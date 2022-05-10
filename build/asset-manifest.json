@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TP4DPW/static/css/main.c6682c7b.css",
+    "main.js": "/TP4DPW/static/js/main.9b40c9e0.js",
+    "static/js/787.aeb39de0.chunk.js": "/TP4DPW/static/js/787.aeb39de0.chunk.js",
+    "index.html": "/TP4DPW/index.html",
+    "main.c6682c7b.css.map": "/TP4DPW/static/css/main.c6682c7b.css.map",
+    "main.9b40c9e0.js.map": "/TP4DPW/static/js/main.9b40c9e0.js.map",
+    "787.aeb39de0.chunk.js.map": "/TP4DPW/static/js/787.aeb39de0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6682c7b.css",
+    "static/js/main.9b40c9e0.js"
+  ]
+}
